@@ -12,12 +12,12 @@ module.exports = {
       // portfolio archives
       {
         source: '/archives/v1',
-        destination: 'https://wizardly-payne-b3707b.netlify.app/',
+        destination: 'https://https://neotenyiota.vercel.app/',
         permanent: true
       },
       {
         source: '/archives/v2',
-        destination: 'https://braydoncoyer-2hvriu779-braydon-coyer.vercel.app/',
+        destination: 'https://https://neotenyiota.vercel.app/',
         permanent: true
       }
     ];
